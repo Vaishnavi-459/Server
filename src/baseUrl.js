@@ -1,6 +1,6 @@
 // export const BASE_URL = 'http://alb-dev-sc-197990416.ap-south-1.elb.amazonaws.com/api'
 
-export let wifiUrl = '13.53.103.135'
+export let wifiUrl = '13.233.4.227'
 
 export const BASE_URL = `http://${wifiUrl}:9090/clinic-admin`
 export const MainAdmin_URL = `http://${wifiUrl}:9090/admin`
